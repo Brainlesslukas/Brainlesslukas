@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brainlesslukas
-- 👀 I’m interested in Biking and playing Minecraft (IGN = brainlesslukas)
-- 🌱 I’m currently learning coding Discord Bots (Python)
-- 📫 How to reach me:Discord (Name = brainlesslukas)
+- 👀 I’m interested in Coding Minecraft (IGN = brainlesslukas)
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: Discord (Name = brainlesslukas)
 
 <!---
 Brainlesslukas/Brainlesslukas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
