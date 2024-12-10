@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Brainlesslukas<br>👀 I’m interested in Coding and Minecraft(IGN = brainlesslukas)<br>🌱 I’m currently learning Java<br>📫 How to reach me: Discord (Name = brainlesslukas)
+👋 Hi, I’m @Brainlesslukas<br>👀 I’m interested in Coding and Minecraft(IGN = brainlesslukas)<br>🌱 I’m currently learning JavaScript<br>📫 How to reach me: Discord (Name = brainlesslukas)
 
 
 ## 🌐 Socials:
