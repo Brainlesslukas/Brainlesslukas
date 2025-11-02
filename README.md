@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 My Portfolio: [https://brainlesslukas.xyz](https://brainlesslukas.xyz)
-
 - 📫 Reach me at Discord: **brainlesslukas**
 
 
