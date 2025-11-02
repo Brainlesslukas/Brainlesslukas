@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brainlesslukas&label=Profile%20views&color=0e75b6&style=flat" alt="brainlesslukas" /> </p>
 
-- 🔭 I’m currently working on [Zenith-UI](https://github.com/zenith-ui)
+- 🔭 I’m currently working on [Nuvra-UI](https://github.com/nuvra-ui)
 
 - 🌱 I’m currently learning **Golang**
 
